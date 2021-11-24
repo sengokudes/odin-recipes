@@ -1,0 +1,52 @@
+/* DEFAULT styles starts from here */
+html {
+    background-color: #FE4C6F;
+}
+
+h1 {
+    font-family: cursive, sans-serif;
+    font-weight: bolder;
+}
+
+a,
+li,
+p{
+    text-decoration: none;
+    color: white;
+    font-weight: 400;
+}
+
+ul {
+    font-weight: 600;
+}
+
+img {
+    border: solid 10px #8b2030;
+    border-radius: 10%;
+    height: auto;
+    width: 330px;
+}
+
+h2 {
+    font-family: sans-serif;
+    font-weight: bolder;
+}
+
+h3 {
+    font-family: sans-serif;
+}
+
+/* HOMEPAGE */
+#recipes-list {
+    border-radius: 15px;
+    background-color: #531319;
+    color: #8B2030;
+    box-shadow: 10px 10px 5px rgb(139, 32, 48);  
+}
+
+/* RECIPES */
+.ingredients-group {
+    background-color: #531319;
+    border-radius: 20px;
+    box-shadow: 12px 12px 2px 1px rgba(139, 32, 48, .6);
+}
